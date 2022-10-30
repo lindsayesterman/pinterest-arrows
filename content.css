@@ -1,0 +1,19 @@
+.leftArrow {
+    border-radius: 50%;
+    color: black;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 190px;
+    right: 285px;
+    z-index: 999999;
+}
+
+.rightArrow {
+    border-radius: 50%;
+    color: black;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 190px;
+    right: 245px;
+    z-index: 999999;
+}
